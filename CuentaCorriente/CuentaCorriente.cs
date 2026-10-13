@@ -2,9 +2,9 @@ namespace CuentaCorriente;
 
 public class CuentaCorriente
 {
-    private int Balance;
+    private float Balance;
 
-    public CuentaCorriente(int Balance)
+    public CuentaCorriente(float Balance)
     {
         this.Balance = Balance;
     }
@@ -14,7 +14,7 @@ public class CuentaCorriente
         Console.WriteLine("Saldo: " + Balance + " euros.");
     }
 
-    public void IngresarDinero(int Dinero)
+    public void IngresarDinero(float Dinero)
     {
         if (Dinero > 0)
         {
@@ -26,7 +26,7 @@ public class CuentaCorriente
         }
     }
 
-    public void RetirarDinero(int Dinero)
+    public void RetirarDinero(float Dinero)
     {
         if (Balance >= Dinero)
         {

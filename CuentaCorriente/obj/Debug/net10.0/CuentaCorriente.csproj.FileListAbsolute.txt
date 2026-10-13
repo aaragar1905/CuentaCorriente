@@ -1,0 +1,14 @@
+C:\Users\crash\JetBrains Rider\Programación y Motores de Videojuegos\Tema 1\CuentaCorriente\CuentaCorriente\bin\Debug\net10.0\CuentaCorriente.exe
+C:\Users\crash\JetBrains Rider\Programación y Motores de Videojuegos\Tema 1\CuentaCorriente\CuentaCorriente\bin\Debug\net10.0\CuentaCorriente.deps.json
+C:\Users\crash\JetBrains Rider\Programación y Motores de Videojuegos\Tema 1\CuentaCorriente\CuentaCorriente\bin\Debug\net10.0\CuentaCorriente.runtimeconfig.json
+C:\Users\crash\JetBrains Rider\Programación y Motores de Videojuegos\Tema 1\CuentaCorriente\CuentaCorriente\bin\Debug\net10.0\CuentaCorriente.dll
+C:\Users\crash\JetBrains Rider\Programación y Motores de Videojuegos\Tema 1\CuentaCorriente\CuentaCorriente\bin\Debug\net10.0\CuentaCorriente.pdb
+C:\Users\crash\JetBrains Rider\Programación y Motores de Videojuegos\Tema 1\CuentaCorriente\CuentaCorriente\obj\Debug\net10.0\CuentaCorriente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crash\JetBrains Rider\Programación y Motores de Videojuegos\Tema 1\CuentaCorriente\CuentaCorriente\obj\Debug\net10.0\CuentaCorriente.AssemblyInfoInputs.cache
+C:\Users\crash\JetBrains Rider\Programación y Motores de Videojuegos\Tema 1\CuentaCorriente\CuentaCorriente\obj\Debug\net10.0\CuentaCorriente.AssemblyInfo.cs
+C:\Users\crash\JetBrains Rider\Programación y Motores de Videojuegos\Tema 1\CuentaCorriente\CuentaCorriente\obj\Debug\net10.0\CuentaCorriente.csproj.CoreCompileInputs.cache
+C:\Users\crash\JetBrains Rider\Programación y Motores de Videojuegos\Tema 1\CuentaCorriente\CuentaCorriente\obj\Debug\net10.0\CuentaCorriente.dll
+C:\Users\crash\JetBrains Rider\Programación y Motores de Videojuegos\Tema 1\CuentaCorriente\CuentaCorriente\obj\Debug\net10.0\refint\CuentaCorriente.dll
+C:\Users\crash\JetBrains Rider\Programación y Motores de Videojuegos\Tema 1\CuentaCorriente\CuentaCorriente\obj\Debug\net10.0\CuentaCorriente.pdb
+C:\Users\crash\JetBrains Rider\Programación y Motores de Videojuegos\Tema 1\CuentaCorriente\CuentaCorriente\obj\Debug\net10.0\CuentaCorriente.genruntimeconfig.cache
+C:\Users\crash\JetBrains Rider\Programación y Motores de Videojuegos\Tema 1\CuentaCorriente\CuentaCorriente\obj\Debug\net10.0\ref\CuentaCorriente.dll

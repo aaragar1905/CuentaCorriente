@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CuentaCorriente")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa3d6a01b5991e192203f1d89c3d8531eea4cb86")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c84bff204a1ca180f014cb0945ae393a14ad3ebd")]
 [assembly: System.Reflection.AssemblyProductAttribute("CuentaCorriente")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CuentaCorriente")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

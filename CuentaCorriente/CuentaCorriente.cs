@@ -13,6 +13,11 @@ public class CuentaCorriente
     {
         Console.WriteLine("Saldo: " + Balance + " euros.");
     }
+    
+    public float GetSaldo()
+    {
+        return Balance;
+    }
 
     public void IngresarDinero(float Dinero)
     {

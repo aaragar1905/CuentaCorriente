@@ -16,7 +16,7 @@ public class CuentaCorriente
 
     public void IngresarDinero(float Dinero)
     {
-        if (Dinero > 0)
+        if (Dinero > 0.0f)
         {
             Balance += Dinero;
         }

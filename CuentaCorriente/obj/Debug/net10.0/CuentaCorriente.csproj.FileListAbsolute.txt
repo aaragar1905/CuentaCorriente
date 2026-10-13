@@ -12,3 +12,4 @@ C:\Users\crash\JetBrains Rider\Programación y Motores de Videojuegos\Tema 1\Cue
 C:\Users\crash\JetBrains Rider\Programación y Motores de Videojuegos\Tema 1\CuentaCorriente\CuentaCorriente\obj\Debug\net10.0\CuentaCorriente.pdb
 C:\Users\crash\JetBrains Rider\Programación y Motores de Videojuegos\Tema 1\CuentaCorriente\CuentaCorriente\obj\Debug\net10.0\CuentaCorriente.genruntimeconfig.cache
 C:\Users\crash\JetBrains Rider\Programación y Motores de Videojuegos\Tema 1\CuentaCorriente\CuentaCorriente\obj\Debug\net10.0\ref\CuentaCorriente.dll
+C:\Users\crash\JetBrains Rider\Programación y Motores de Videojuegos\Tema 1\CuentaCorriente\CuentaCorriente\obj\Debug\net10.0\CuentaCorriente.sourcelink.json

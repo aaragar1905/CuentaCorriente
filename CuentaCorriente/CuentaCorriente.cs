@@ -16,7 +16,14 @@ public class CuentaCorriente
 
     public void IngresarDinero(int Dinero)
     {
-        Balance += Dinero;
+        if (Dinero > 0)
+        {
+            Balance += Dinero;
+        }
+        else
+        {
+            Console.WriteLine("Dinero insuficiente.");
+        }
     }
 
     public void RetirarDinero(int Dinero)
